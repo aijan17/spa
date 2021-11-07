@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Add = () => {
+const EditTenants = () => {
     return (
         <div>
             
@@ -8,4 +8,4 @@ const Add = () => {
     );
 };
 
-export default Add;
+export default EditTenants;
